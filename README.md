@@ -1,7 +1,7 @@
-Chat Bridge Bot
+![Icon](https://raw.githubusercontent.com/nadam/chatbridgebot/master/chatbridgebot.gif) Chat Bridge Bot
 ===============
 
-![Icon](https://raw.githubusercontent.com/nadam/chatbridgebot/master/chatbridgebot.gif) [Chat Bridge Bot](https://telegram.me/chatbridgebot) lets users chat with each other on [Telegram](https://core.telegram.org) even if they are reported. You can start a conversation using the /link command or by answering a forwarded message.
+[Chat Bridge Bot](https://telegram.me/chatbridgebot) lets users chat with each other on [Telegram](https://core.telegram.org) even if they are reported. You can start a conversation using the /link command or by answering a forwarded message.
 
 The bot is written in Java for [Google App Engine](https://cloud.google.com/appengine/).
 
